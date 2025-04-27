@@ -1,0 +1,1 @@
+# unitynuget-static
