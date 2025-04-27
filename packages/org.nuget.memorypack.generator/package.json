@@ -1,0 +1,14 @@
+{
+  "name": "org.nuget.memorypack.generator",
+  "displayName": "MemoryPack.Generator (TryApp NuGet)",
+  "version": "1.21.4",
+  "unity": "2021.2",
+  "description": "Code generator for MemoryPack.",
+  "keywords": [
+    "nuget",
+    "serializer"
+  ],
+  "category": null,
+  "dependencies": {},
+  "_fingerprint": "f78a1fea9937473a5af09a4f29cd5ff98530e533"
+}

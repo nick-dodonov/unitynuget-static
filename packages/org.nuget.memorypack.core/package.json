@@ -1,0 +1,17 @@
+{
+  "name": "org.nuget.memorypack.core",
+  "displayName": "MemoryPack.Core (TryApp NuGet)",
+  "version": "1.21.4",
+  "unity": "2021.2",
+  "description": "Core libraries(attribute, logics) of MemoryPack.",
+  "keywords": [
+    "nuget",
+    "serializer"
+  ],
+  "category": null,
+  "dependencies": {
+    "org.nuget.system.collections.immutable": "6.0.0",
+    "org.nuget.system.runtime.compilerservices.unsafe": "6.0.0"
+  },
+  "_fingerprint": "8ec6c4fc57597ba8755b532a5647d12a6e85b788"
+}
